@@ -1,0 +1,19 @@
+{
+    "token": "TOKEN", 
+    "prefix": "PREFİX",
+    "sahip": "ID",
+    "tag": "TAG",
+    "genelchat": "ID",
+    "isim": "Sunucu İsmi Örnek `Zelaxin #1654`", 
+    "kayıtrolü": "Register Hammer",
+    "kayıtsızrol": "Unregister",
+    "erkekrol": "Erkek",
+    "kadınrol": "Female",
+    "kayıtchat": "Register Chat",
+    "kayıtlog": "Kayıt log",
+    "kurallar": "Kurallar",
+    "karantinarol": "Karantina rol",
+    "tagkanal": "Tag Log",
+    "tagrol": "Family Rol",
+    "sunucu": "Sunucu ID"
+}
